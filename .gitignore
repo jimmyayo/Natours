@@ -1,0 +1,10 @@
+bin
+obj
+node_modules
+assets
+# .vscode
+# appsettings.json
+# *.db
+*.db
+wwwroot
+publish
